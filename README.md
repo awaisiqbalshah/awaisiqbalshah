@@ -41,14 +41,14 @@ With expertise in **Excel, Stata, SPSS, SQL, and Power BI**, I specialize in **d
 
 ## 📚 **Work & Contributions**
 - 🏆 **Developed Excel-based dashboards** to visualize key performance indicators.  
-- 📊 **Built Power BI reports** for stakeholders in the NGO & research sector.  
+- 📊 **Built Power BI reports** for stakeholders in the NGO, research sector, and cooperate companies.  
 - 📌 **Conducted statistical analysis** for education and development programs.  
 - 📂 **Optimized SQL queries** for efficient data retrieval.  
 
 ---
 
 ## 📬 **Connect with Me**
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📧 [Email](mailto:your.email@example.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/awaisiqbalshah)  
+📧 [Email](mailto:awaisiqbal_shah@yahoo.com)  
 
 🚀 Always open to **collaboration, dashboard development, and data-driven discussions!**  
