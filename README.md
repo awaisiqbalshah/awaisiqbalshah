@@ -20,7 +20,7 @@ With expertise in **Excel, Stata, SPSS, SQL, and Power BI**, I specialize in **d
 ### **1️⃣ Education Dashboard (Excel)**
 📌 **Skills:** Excel, Data Visualization, KPI Tracking  
 ✅ Designed an **interactive education dashboard** showcasing **school distributions, scores, and key metrics**.  
-🚀 **[View Project](https://github.com/yourusername/Education-Dashboard)**  
+🚀 **[View Project](https://github.com/awaisiqbalshah/Education-Dashboard-Pakistan))**  
 
 ### **2️⃣ Sales Performance Dashboard (Power BI)**
 📌 **Skills:** Power BI, SQL, DAX  
