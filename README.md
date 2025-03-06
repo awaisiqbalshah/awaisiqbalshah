@@ -3,7 +3,7 @@
 🎯 **Data Analyst | Dashboard Designer | Researcher**  
 
 🔍 Passionate about transforming raw data into **interactive dashboards and meaningful insights** to drive decision-making.  
-With expertise in **Excel, Stata, SPSS, SQL, and Power BI**, I specialize in **data visualization, statistical modeling, and performance analysis**.  
+With expertise in **Excel, Stata, SPSS, SQL, and Power BI**, I specialize in **data cleaning, data visualization, statistical modeling, and performance analysis**.  
 
 ---
 
